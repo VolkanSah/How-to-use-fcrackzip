@@ -1,4 +1,4 @@
-# Advanced Tips and Examples for Using fcrackzip
+# Advanced tips and examples for using **fcrackzip**
 
 ## Introduction
 fcrackzip is a versatile tool for cracking password-protected zip files. Beyond the basic usage, there are several advanced techniques and tips that can help you use the tool more effectively.
