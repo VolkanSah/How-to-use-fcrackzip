@@ -97,7 +97,7 @@ fcrackzipinfo protected.zip
 ```
 
 ## Credits
-fcrackzip and fcrackzipinfo were written by Marc Lehmann. More information can be found at [Marc's website](http://www.goof.com/pcg/marc/).
+fcrackzip and fcrackzipinfo were written by Marc Lehmann.
 
 ## Additional Resources
 For further details and updates, visit the [fcrackzip project page](http://www.goof.com/pcg/marc/).
