@@ -1,7 +1,7 @@
 # Advanced tips and examples for using **fcrackzip**
 
 ## Introduction
-fcrackzip is a versatile tool for cracking password-protected zip files. Beyond the basic usage, there are several advanced techniques and tips that can help you use the tool more effectively.
+fcrackzip is a versatile tool for cracking password-protected zip files. Beyond the basic usage, there are several advanced techniques and tips that can help you use the tool more effectively. Is installed on Kali
 
 ## Installed Size
 81 KB
@@ -100,7 +100,7 @@ fcrackzipinfo protected.zip
 fcrackzip and fcrackzipinfo were written by Marc Lehmann.
 
 ## Additional Resources
-For further details and updates, visit the [fcrackzip project page](http://www.goof.com/pcg/marc/).
+For further details and updates, visit the [fcrackzip project page](https://salsa.debian.org/pkg-security-team/fcrackzip).
 
 
 
