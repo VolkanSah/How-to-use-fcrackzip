@@ -96,24 +96,23 @@ To parse and display information about `protected.zip`, use:
 fcrackzipinfo protected.zip
 ```
 
+
 ## Credits
+
 fcrackzip and fcrackzipinfo were written by Marc Lehmann.
 
 ## Additional Resources
-For further details and updates, visit the [fcrackzip project page](https://salsa.debian.org/pkg-security-team/fcrackzip).
+
+For more details and updates, check out the [fcrackzip project page](https://salsa.debian.org/pkg-security-team/fcrackzip).
 
 
+## If You Like This Repo
 
+- If you find this infos useful, feel free to star the repository or share it with others who might benefit.
+- You can also follow my GitHub to keep up with my latest projects and updates.
+- For a closer look at what I’m working on, visit my developer site: [https://volkansah.github.io](https://volkansah.github.io).
 
-## Your Support
-If you find this project useful and want to support it, there are several ways to do so:
+If you want to support my work, any kind of sponsorship or feedback is much appreciated — but no pressure!
 
-- If you find the white paper helpful, please ⭐ it on GitHub. This helps make the project more visible and reach more people.
-- Become a Follower: If you're interested in updates and future improvements, please follow my GitHub account. This way you'll always stay up-to-date.
-- Learn more about my work: I invite you to check out all of my work on GitHub and visit my developer site https://volkansah.github.io. Here you will find detailed information about me and my projects.
-- Share the project: If you know someone who could benefit from this project, please share it. The more people who can use it, the better.
-**If you appreciate my work and would like to support it, please visit my [GitHub Sponsor page](https://github.com/sponsors/volkansah). Any type of support is warmly welcomed and helps me to further improve and expand my work.**
+Thanks for checking this out! ❤️
 
-Thank you for your support! ❤️
-
-##### Copyright S. Volkan Kücükbudak
